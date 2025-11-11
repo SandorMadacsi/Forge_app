@@ -2,10 +2,10 @@
 
 ## Project Setup
 
-- [ ] Initialize project folder and Git repo
-- [ ] Set up Python environment (venv)
-- [ ] Create main app file (e.g., `app.py`)
-- [ ] Create data storage file (e.g., `journal.json`)
+- [x] Initialize project folder and Git repo
+- [x] Set up Python environment (venv)
+- [x] Create main app file (e.g., `app.py`)
+- [x] Create data storage file (e.g., `journal.json`)
 
 
 ## Core Data Model 
